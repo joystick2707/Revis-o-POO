@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class RestauranteApp {
+public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         Cardapio cardapio = new Cardapio();
