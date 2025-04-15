@@ -1,3 +1,5 @@
+//Trabalho feito por Bryan Strey
+
 import java.util.Scanner;
 
 public class Main {
